@@ -55,7 +55,6 @@ String SendHTML(String plainText, String pesan){
   ptr +="</head>\n";
   ptr +="<body>\n";
   ptr +="<div id=\"webpage\">\n";
-  ptr +="<h1>Kriptografi</h1>\n";
   
   ptr +="<p>Nama: ";
   ptr += plainText;
